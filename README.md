@@ -14,6 +14,7 @@ It needs `SDL2` for GUIs. It has been tested on `Msys2` with `gcc 9` and `cmake`
 ### Screenshot
 
 `c8pic` ROM:
+
 ![c8pic](c8pic.jpg)
 
 ### Resources
