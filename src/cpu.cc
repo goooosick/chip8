@@ -39,7 +39,6 @@ static uint8_t HEX_FONTS[] = {
     0xF0, 0x80, 0xF0, 0x80, 0x80  // F
 };
 
-#include <cstdio>
 void Cpu::load_program(const char *file) {
     std::ifstream stream(file, std::ios::binary);
     
